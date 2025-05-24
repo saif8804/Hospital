@@ -7,7 +7,7 @@ const MainContainer = () => {
   return (
     <div className="w-screen relative ">
       <VideoConatiner />
-      <Searchbar />
+       <Searchbar />
        <MedicalSuggestion />
     </div>
   );

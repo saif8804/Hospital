@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react";
 
 const Apollo = () => {
-  return (
-    <div>Apollo</div>
-  )
-}
+  return <div>
+    Apollo
+    </div>;
+};
 
-export default Apollo
+export default Apollo;
